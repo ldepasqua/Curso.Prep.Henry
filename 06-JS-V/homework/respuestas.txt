@@ -1,0 +1,9 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* `prototype`
+
+En si todos los objetos tienen una referencia a otro objeto llamado proto. Entonces los archivos tienen a su vez propiedades y un prototipo. Dentro del prototipo puedo tener funciones específicas que realicen una acción específica sobre ese objeto en particular.
+
+* _Constructors_ (de Clases)
+
+Es un metodo especial para crear e inicializar un objeto creado a partir de una clase.
