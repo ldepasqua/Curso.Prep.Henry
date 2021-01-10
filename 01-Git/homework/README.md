@@ -165,4 +165,4 @@ La terminal te preguntará tu usuario y contraseña (En el caso de la contraseñ
     cccc682..283b9dd  master -> master
 ```
 
-¡Felicitaciones, acabas de subir tu primer git commit!
+¡Felicitaciones, acabas de subir tu primer git commit!/
