@@ -6,4 +6,4 @@ Funciones: Es una cajita que agrupa código que la guardo en un lugar y la puedo
 
 Declaraciones: Es la creación o utilización de variables dentro de una funcion. En el caso del if ya es parte de una lógica, establezco una condicion que si se cumple (es verdadera) entonces se va a ejecutar el codigo encerrado dentro del if, y si la condición no se cumple no se ejecuta el código o se pasa a un else donde se ejecuta otro código. Esto se puede repetir la cantidad de veces que quiera con un elseif siempre y cuando cuente con condiciones para seguir evaluando.
 
-Valores booleanos: Los valores booleanos pueden ser asignados a una variable, pueden ser el resultado de la evaluación de una condicion o pueden ser el resultado de una función a traves de un return.
+Valores booleanos: Los valores booleanos pueden ser asignados a una variable, pueden ser el resultado de la evaluación de una condicion o pueden ser el resultado de una función a traves de un return./
