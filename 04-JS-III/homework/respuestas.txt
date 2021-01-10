@@ -1,0 +1,6 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Arrays
+
+Es un lugar donde almaceno distintos tipos de elementos y cada uno de ellos se encuentra almacenado en una posición específica. Las posiciones de almacenamiento se encuentran numeradas, comenzando con el primer elemento desde el 0 y finalizando en una posición n.
+Si quiero acceder a una posición específica debo específicar el array al que quierro acceder y entre brackets el número de la posición a la cual quiero acceder, por ejemplo, array[2]. En este caso estaría accediendo a la posición 3 dado que comienza con 0, 1, 2.
