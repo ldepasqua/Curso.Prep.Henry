@@ -1,0 +1,15 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* `for`
+Es un bucle que tiene 3 expresiones:
+La primera expresión es un contador que inicia desde un valor x.
+La segunda expresión se evalua antes de comenzar cada bucle. Si la expresión resulta verdadera el bucle se ejecuta, de lo contrario no se ejecuta.
+La tercera expresión se evalua al finalizar cada bucle. Se usa generalmente para adicionar al contador de la primera expresión.
+
+* `&&`, `||`, `!`.
+
+Son operadores lógicos. Permiten comparar dos expresiones.
+
+&& (And/Y) Si ambas expresiones son verdaderas entonces devuelve true, de lo contrario false.
+|| (Or/O) Si alguna de las dos expresiones es verdadera o ambas son verdaderas entonces devuelve true, de lo contrario false.
+! (Not/Negación) Convierte expresiones verdaderas en falsas y viceversa.
